@@ -5,5 +5,8 @@ PRODUCT_PACKAGES += \
 	IchnaeaNlpBackend \
 	NominatimGeocoderBackend \
 	FDroid \
+	AuroraStore \
+	AuroraServices \
+	AuroraWarden \
 	FDroidPrivilegedExtension \
 	additional_repos.xml
